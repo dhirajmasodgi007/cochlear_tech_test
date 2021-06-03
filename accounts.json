@@ -1,0 +1,55 @@
+[
+  {
+    "id": "patientA",
+    "name": "Patient A",
+    "clinic": "ClinicX",
+    "type": "Patient",
+    "consent": true
+  },
+  {
+    "id": "patientB",
+    "name": "Patient B",
+    "clinic": "ClinicX",
+    "type": "Patient",
+    "consent": true
+  },
+  {
+    "id": "patientC",
+    "name": "Patient C",
+    "clinic": "ClinicX",
+    "type": "Patient",
+    "consent": false
+  },
+  {
+    "id": "patientD",
+    "name": "Patient D",
+    "clinic": "ClinicY",
+    "type": "Patient",
+    "consent": true
+  },
+  {
+    "id": "patientE",
+    "name": "Patient E",
+    "clinic": "ClinicY",
+    "type": "Patient",
+    "consent": false
+  },
+  {
+    "id": "doctorA",
+    "name": "Doctor A",
+    "clinic": "ClinicX",
+    "type": "Doctor"
+  },
+  {
+    "id": "doctorA",
+    "name": "Doctor A",
+    "clinic": "ClinicY",
+    "type": "Doctor"
+  },
+  {
+    "id": "doctorB",
+    "name": "Doctor B",
+    "clinic": "ClinicY",
+    "type": "Doctor"
+  }
+]

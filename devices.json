@@ -1,0 +1,37 @@
+[
+  {
+    "deviceId": "1",
+    "name": "deviceA",
+    "owner": "patientA"
+  },
+  {
+    "deviceId": "2",
+    "name": "deviceB",
+    "owner": "patientB"
+  },
+  {
+    "deviceId": "3",
+    "name": "deviceC",
+    "owner": "patientC"
+  },
+  {
+    "deviceId": "4",
+    "name": "deviceD",
+    "owner": "patientC"
+  },
+  {
+    "deviceId": "5",
+    "name": "deviceE",
+    "owner": "patientD"
+  },
+  {
+    "deviceId": "6",
+    "name": "deviceF",
+    "owner": "patientD"
+  },
+  {
+    "deviceId": "7",
+    "name": "deviceG",
+    "owner": "patientE"
+  }
+]
